@@ -4,8 +4,8 @@ En Frutópolis, nadie sale a correr
 después de medianoche. Teo no lo sabía.
 
 2
-00:00:11,300 --> 00:00:13,700
-¿Hola...? ¿Quién anda ahí?
+00:00:11,300 --> 00:00:14,100
+¿Hola...? Tío, ¿quién anda ahí?
 
 3
 00:00:21,300 --> 00:00:23,100
@@ -32,55 +32,56 @@ Tres en una semana...
 Esto no es casualidad.
 
 8
-00:00:54,300 --> 00:00:57,400
-¡Lía! ¡Ven ahora mismo! ¡Te lo dije!
+00:00:54,300 --> 00:00:57,100
+¡Lía! ¡Ven ya! ¡Que te lo dije!
 
 9
-00:01:00,300 --> 00:01:05,000
-Nico, otra vez no. Los Cereza
+00:01:00,300 --> 00:01:05,400
+Nico, otra vez no, bro. Los Cereza
 no son villanos de película.
 
 10
-00:01:06,300 --> 00:01:11,769
-Escucha: cada vez que alguien
-desaparece, Delicia saca un sabor nuevo.
+00:01:06,300 --> 00:01:09,493
+Escucha: cada vez que
+alguien desaparece,
 
 11
-00:01:11,769 --> 00:01:13,800
-¡Siempre al día siguiente!
+00:01:09,493 --> 00:01:14,400
+Delicia saca un sabor nuevo al
+día siguiente. ¡Es súper turbio!
 
 12
-00:01:14,800 --> 00:01:17,900
-Mira. Lo han publicado esta mañana.
+00:01:15,300 --> 00:01:18,200
+Mira. Lo han subido esta mañana.
 
 13
-00:01:20,800 --> 00:01:22,800
+00:01:21,300 --> 00:01:23,300
 Plátano... Como Teo.
 
 14
-00:01:25,800 --> 00:01:31,000
-Esta noche voy al centro comercial.
-Voy a descubrir qué esconden.
+00:01:26,300 --> 00:01:31,200
+Esta noche me planto en el
+centro comercial y pillo pruebas.
 
 15
-00:01:31,800 --> 00:01:35,900
+00:01:32,300 --> 00:01:36,400
 Ni se te ocurra, Nico.
 ¿Me oyes? Ni se te ocurra.
 
 16
-00:01:36,800 --> 00:01:38,000
+00:01:37,300 --> 00:01:38,500
 ¿Nico...?
 
 17
-00:01:42,800 --> 00:01:47,900
+00:01:43,300 --> 00:01:48,400
 Bruno, soy yo. Nico se ha
 escapado... Va a tu centro comercial.
 
 18
-00:01:48,800 --> 00:01:52,310
+00:01:49,300 --> 00:01:52,810
 Nico fue a buscar
 pruebas. Pero esa noche...
 
 19
-00:01:52,310 --> 00:01:55,500
+00:01:52,810 --> 00:01:56,000
 las pruebas también lo encontraron a él.

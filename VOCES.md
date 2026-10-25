@@ -58,15 +58,15 @@ En Frutópolis, nadie sale a correr después de medianoche. Teo no lo sabía.
 ```
 
 ### 02. Teo · plano 03 · en cámara → lip-sync
-Archivo: `P1_02_plano03_TEO.mp3` · Interpretación: nervioso, sin aliento · Duración aprox.: 2.4 s
+Archivo: `P1_02_plano03_TEO.mp3` · Interpretación: nervioso, sin aliento · Duración aprox.: 2.8 s
 
 ElevenLabs v3:
 ```
-[nervous, out of breath] ¿Hola...? ¿Quién anda ahí?
+[nervous, out of breath] ¿Hola...? Tío, ¿quién anda ahí?
 ```
 Texto limpio:
 ```
-¿Hola...? ¿Quién anda ahí?
+¿Hola...? Tío, ¿quién anda ahí?
 ```
 
 ### 03. Teo · plano 05 · en cámara → lip-sync
@@ -118,51 +118,51 @@ Tres en una semana... Esto no es casualidad.
 ```
 
 ### 07. Nico · plano 11 · en cámara → lip-sync
-Archivo: `P1_07_plano11_NICO.mp3` · Interpretación: urgente, gritando · Duración aprox.: 3.1 s
+Archivo: `P1_07_plano11_NICO.mp3` · Interpretación: urgente, gritando · Duración aprox.: 2.8 s
 
 ElevenLabs v3:
 ```
-[shouting, urgent] ¡Lía! ¡Ven ahora mismo! ¡Te lo dije!
+[shouting, urgent] ¡Lía! ¡Ven ya! ¡Que te lo dije!
 ```
 Texto limpio:
 ```
-¡Lía! ¡Ven ahora mismo! ¡Te lo dije!
+¡Lía! ¡Ven ya! ¡Que te lo dije!
 ```
 
 ### 08. Lía · plano 12 · en cámara → lip-sync
-Archivo: `P1_08_plano12_LÍA.mp3` · Interpretación: escéptica, cansada · Duración aprox.: 4.7 s
+Archivo: `P1_08_plano12_LÍA.mp3` · Interpretación: escéptica, cansada · Duración aprox.: 5.1 s
 
 ElevenLabs v3:
 ```
-[sighs, skeptical] Nico, otra vez no. Los Cereza no son villanos de película.
+[sighs, skeptical] Nico, otra vez no, bro. Los Cereza no son villanos de película.
 ```
 Texto limpio:
 ```
-Nico, otra vez no. Los Cereza no son villanos de película.
+Nico, otra vez no, bro. Los Cereza no son villanos de película.
 ```
 
 ### 09. Nico · plano 13 · en cámara → lip-sync
-Archivo: `P1_09_plano13_NICO.mp3` · Interpretación: intenso, rápido · Duración aprox.: 7.5 s
+Archivo: `P1_09_plano13_NICO.mp3` · Interpretación: intenso, rápido · Duración aprox.: 8.1 s
 
 ElevenLabs v3:
 ```
-[intense, fast] Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo. ¡Siempre al día siguiente!
+[intense, fast] Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo al día siguiente. ¡Es súper turbio!
 ```
 Texto limpio:
 ```
-Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo. ¡Siempre al día siguiente!
+Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo al día siguiente. ¡Es súper turbio!
 ```
 
 ### 10. Nico · plano 14 · voz en off, sin lip-sync
-Archivo: `P1_10_plano14_NICO.mp3` · Interpretación: serio, en voz baja · Duración aprox.: 3.1 s
+Archivo: `P1_10_plano14_NICO.mp3` · Interpretación: serio, en voz baja · Duración aprox.: 2.9 s
 
 ElevenLabs v3:
 ```
-[serious, quiet] Mira. Lo han publicado esta mañana.
+[serious, quiet] Mira. Lo han subido esta mañana.
 ```
 Texto limpio:
 ```
-Mira. Lo han publicado esta mañana.
+Mira. Lo han subido esta mañana.
 ```
 
 ### 11. Lía · plano 15 · en cámara → lip-sync
@@ -178,15 +178,15 @@ Plátano... Como Teo.
 ```
 
 ### 12. Nico · plano 16 · voz en off, sin lip-sync
-Archivo: `P1_12_plano16_NICO.mp3` · Interpretación: decidido, en voz baja · Duración aprox.: 5.2 s
+Archivo: `P1_12_plano16_NICO.mp3` · Interpretación: decidido, en voz baja · Duración aprox.: 4.9 s
 
 ElevenLabs v3:
 ```
-[determined, low] Esta noche voy al centro comercial. Voy a descubrir qué esconden.
+[determined, low] Esta noche me planto en el centro comercial y pillo pruebas.
 ```
 Texto limpio:
 ```
-Esta noche voy al centro comercial. Voy a descubrir qué esconden.
+Esta noche me planto en el centro comercial y pillo pruebas.
 ```
 
 ### 13. Lía · plano 17 · en cámara → lip-sync

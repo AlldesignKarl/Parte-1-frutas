@@ -20,7 +20,7 @@
 *[0:11] Plano 03.* Teo se para en seco y mira hacia atrás. Al fondo de la calle, bajo una farola, una figura alta con un tallo largo en la cabeza lo observa.
 
 **TEO** _(nervioso, sin aliento)_
-> ¿Hola...? ¿Quién anda ahí?
+> ¿Hola...? Tío, ¿quién anda ahí?
 
 *[0:17] Plano 04.* La farola parpadea y se apaga. Cuando vuelve la luz, la figura ya no está.
 
@@ -60,24 +60,24 @@
 *[0:54] Plano 11.* Nico, sentado en la cama delante de su muro de conspiraciones (fotos de Don Vicente Cereza, recortes de periódico e hilo rojo), llama a gritos a su hermana.
 
 **NICO** _(urgente, gritando)_
-> ¡Lía! ¡Ven ahora mismo! ¡Te lo dije!
+> ¡Lía! ¡Ven ya! ¡Que te lo dije!
 
 *[1:00] Plano 12.* Lía, de brazos cruzados y apoyada en el marco de la puerta, no se lo cree.
 
 **LÍA** _(escéptica, cansada)_
-> Nico, otra vez no. Los Cereza no son villanos de película.
+> Nico, otra vez no, bro. Los Cereza no son villanos de película.
 
 *[1:06] Plano 13.* Nico le explica su teoría, gesticulando con las dos manos.
 
 **NICO** _(intenso, rápido)_
-> Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo. ¡Siempre al día siguiente!
+> Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo al día siguiente. ¡Es súper turbio!
 
-*[1:14] Plano 14.* Nico enseña la tablet con la publicación de Delicia: «¡NUEVO SABOR! PLÁTANO PREMIUM».
+*[1:15] Plano 14.* Nico enseña la tablet con la publicación de Delicia: «¡NUEVO SABOR! PLÁTANO PREMIUM».
 
 **NICO (V.O.)** _(serio, en voz baja)_
-> Mira. Lo han publicado esta mañana.
+> Mira. Lo han subido esta mañana.
 
-*[1:20] Plano 15.* Lía se queda pálida y abre mucho los ojos.
+*[1:21] Plano 15.* Lía se queda pálida y abre mucho los ojos.
 
 **LÍA** _(susurro, horrorizada)_
 > Plátano... Como Teo.
@@ -85,12 +85,12 @@
 
 ### ESCENA 5 — INT. HABITACIÓN DE NICO — ATARDECER
 
-*[1:25] Plano 16.* Al atardecer, Nico mira por la ventana. A lo lejos se ven el centro comercial Gran Vergel y el neón de Delicia.
+*[1:26] Plano 16.* Al atardecer, Nico mira por la ventana. A lo lejos se ven el centro comercial Gran Vergel y el neón de Delicia.
 
 **NICO (V.O.)** _(decidido, en voz baja)_
-> Esta noche voy al centro comercial. Voy a descubrir qué esconden.
+> Esta noche me planto en el centro comercial y pillo pruebas.
 
-*[1:31] Plano 17.* Lía le señala muy seria desde la puerta.
+*[1:32] Plano 17.* Lía le señala muy seria desde la puerta.
 
 **LÍA** _(firme, preocupada)_
 > Ni se te ocurra, Nico. ¿Me oyes? Ni se te ocurra.
@@ -98,12 +98,12 @@
 
 ### ESCENA 6 — INT. HABITACIÓN DE NICO — MADRUGADA
 
-*[1:36] Plano 18.* De madrugada, la cama de Nico está vacía, la ventana abierta y las cortinas ondean. Hay una nota sobre la almohada.
+*[1:37] Plano 18.* De madrugada, la cama de Nico está vacía, la ventana abierta y las cortinas ondean. Hay una nota sobre la almohada.
 
 **LÍA (V.O.)** _(preocupada, fuera de plano)_
 > ¿Nico...?
 
-*[1:42] Plano 19.* Desesperada y con la nota en la mano, Lía llama a Bruno.
+*[1:43] Plano 19.* Desesperada y con la nota en la mano, Lía llama a Bruno.
 
 **LÍA** _(pánico, respiración rápida)_
 > Bruno, soy yo. Nico se ha escapado... Va a tu centro comercial.
@@ -111,7 +111,7 @@
 
 ### ESCENA 7 — EXT. CENTRO COMERCIAL GRAN VERGEL — NOCHE
 
-*[1:48] Plano 20.* Nico, diminuto en el plano, camina hacia el enorme centro comercial mientras el neón de Delicia parpadea.
+*[1:49] Plano 20.* Nico, diminuto en el plano, camina hacia el enorme centro comercial mientras el neón de Delicia parpadea.
 
 **NARRADOR (V.O.)** _(lento, inquietante)_
 > Nico fue a buscar pruebas. Pero esa noche... las pruebas también lo encontraron a él.

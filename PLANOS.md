@@ -73,7 +73,7 @@ Teo slowly turns his head over his shoulder, breathing hard; the silhouette at t
 ```
 
 **🗣️ Voz:**
-- **Teo** · en cámara → lip-sync · _nervioso, sin aliento_: «¿Hola...? ¿Quién anda ahí?»
+- **Teo** · en cámara → lip-sync · _nervioso, sin aliento_: «¿Hola...? Tío, ¿quién anda ahí?»
 
 **🔊 Sonido:** Lluvia, respiración, zumbido grave de tensión.
 
@@ -246,7 +246,7 @@ Nico shouts toward the door, gesturing with both hands, leaning forward on the b
 ```
 
 **🗣️ Voz:**
-- **Nico** · en cámara → lip-sync · _urgente, gritando_: «¡Lía! ¡Ven ahora mismo! ¡Te lo dije!»
+- **Nico** · en cámara → lip-sync · _urgente, gritando_: «¡Lía! ¡Ven ya! ¡Que te lo dije!»
 
 **🔊 Sonido:** Muelles de la cama.
 
@@ -269,13 +269,13 @@ Lía leans on the doorframe, crosses her arms and sighs, rolling her eyes slight
 ```
 
 **🗣️ Voz:**
-- **Lía** · en cámara → lip-sync · _escéptica, cansada_: «Nico, otra vez no. Los Cereza no son villanos de película.»
+- **Lía** · en cámara → lip-sync · _escéptica, cansada_: «Nico, otra vez no, bro. Los Cereza no son villanos de película.»
 
 **🔊 Sonido:** Suspiro.
 
 ---
 
-### Plano 13 · 1:06–1:14 (8.5 s) · Habitación de Nico
+### Plano 13 · 1:06–1:15 (9 s) · Habitación de Nico
 
 **Qué pasa:** Nico le explica su teoría, gesticulando con las dos manos.
 
@@ -292,13 +292,13 @@ Nico gestures with both hands while talking intensely, leaning forward. The spea
 ```
 
 **🗣️ Voz:**
-- **Nico** · en cámara → lip-sync · _intenso, rápido_: «Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo. ¡Siempre al día siguiente!»
+- **Nico** · en cámara → lip-sync · _intenso, rápido_: «Escucha: cada vez que alguien desaparece, Delicia saca un sabor nuevo al día siguiente. ¡Es súper turbio!»
 
 **🔊 Sonido:** Ambiente de habitación, la música de tensión vuelve suave.
 
 ---
 
-### Plano 14 · 1:14–1:20 (6 s) · Habitación de Nico
+### Plano 14 · 1:15–1:21 (6 s) · Habitación de Nico
 
 **Qué pasa:** Nico enseña la tablet con la publicación de Delicia: «¡NUEVO SABOR! PLÁTANO PREMIUM».
 
@@ -315,13 +315,13 @@ Nico holds the tablet steady and taps the screen; the post glows slightly; slow 
 ```
 
 **🗣️ Voz:**
-- **Nico** · voz en off, sin lip-sync · _serio, en voz baja_: «Mira. Lo han publicado esta mañana.»
+- **Nico** · voz en off, sin lip-sync · _serio, en voz baja_: «Mira. Lo han subido esta mañana.»
 
 **🔊 Sonido:** Toque en la pantalla.
 
 ---
 
-### Plano 15 · 1:20–1:25 (5 s) · Habitación de Nico
+### Plano 15 · 1:21–1:26 (5 s) · Habitación de Nico
 
 **Qué pasa:** Lía se queda pálida y abre mucho los ojos.
 
@@ -344,7 +344,7 @@ Lía's eyes widen slowly and she raises her hand to her mouth; slow push-in. The
 
 ---
 
-### Plano 16 · 1:25–1:31 (6 s) · Habitación de Nico
+### Plano 16 · 1:26–1:32 (6 s) · Habitación de Nico
 
 **Qué pasa:** Al atardecer, Nico mira por la ventana. A lo lejos se ven el centro comercial Gran Vergel y el neón de Delicia.
 
@@ -361,13 +361,13 @@ Nico stares out of the window; the curtains move gently; the distant neon sign f
 ```
 
 **🗣️ Voz:**
-- **Nico** · voz en off, sin lip-sync · _decidido, en voz baja_: «Esta noche voy al centro comercial. Voy a descubrir qué esconden.»
+- **Nico** · voz en off, sin lip-sync · _decidido, en voz baja_: «Esta noche me planto en el centro comercial y pillo pruebas.»
 
 **🔊 Sonido:** Viento suave, zumbido de neón a lo lejos.
 
 ---
 
-### Plano 17 · 1:31–1:36 (5 s) · Habitación de Nico
+### Plano 17 · 1:32–1:37 (5 s) · Habitación de Nico
 
 **Qué pasa:** Lía le señala muy seria desde la puerta.
 
@@ -390,7 +390,7 @@ Lía points firmly and leans forward while she speaks, serious. The speaking cha
 
 ---
 
-### Plano 18 · 1:36–1:42 (6 s) · Habitación de Nico
+### Plano 18 · 1:37–1:43 (6 s) · Habitación de Nico
 
 **Qué pasa:** De madrugada, la cama de Nico está vacía, la ventana abierta y las cortinas ondean. Hay una nota sobre la almohada.
 
@@ -413,7 +413,7 @@ The curtains billow in the wind from the open window; the fairy lights sway; slo
 
 ---
 
-### Plano 19 · 1:42–1:48 (6 s) · Habitación de Nico
+### Plano 19 · 1:43–1:49 (6 s) · Habitación de Nico
 
 **Qué pasa:** Desesperada y con la nota en la mano, Lía llama a Bruno.
 
@@ -436,7 +436,7 @@ Lía holds the phone to her ear, breathing fast, glancing at the open window. Th
 
 ---
 
-### Plano 20 · 1:48–1:56 (7.5 s) · Exterior del centro comercial Gran Vergel, noche
+### Plano 20 · 1:49–1:56 (7.5 s) · Exterior del centro comercial Gran Vergel, noche
 
 **Qué pasa:** Nico, diminuto en el plano, camina hacia el enorme centro comercial mientras el neón de Delicia parpadea.
 
