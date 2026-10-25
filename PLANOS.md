@@ -5,7 +5,7 @@
 Cómo usar este archivo:
 1. **Prompt de imagen** → pégalo en tu generador de imágenes (Midjourney, Nano Banana / Gemini, Flux, Leonardo, Ideogram…). Sube las **fichas de personaje** (ver `PERSONAJES.md`) como referencia para que salgan siempre iguales. El `--ar 9:16` es para Midjourney; en las demás elige formato vertical 9:16.
 2. **Prompt de animación** → sube la imagen generada a Kling, Hailuo, Veo, Runway o similar (imagen → vídeo) y pega este texto.
-3. Planos con diálogo **en cámara → lip-sync**: genera la voz con `VOCES.md` y aplica lip-sync al clip (función Lip Sync de Kling, Hedra, Sync o la que uses). Así se mueve la boca al hablar.
+3. En los planos con diálogo el prompt de animación ya pide la boca cerrada: la voz y el movimiento de la boca los añade después el motor de montaje.
 4. Si la herramienta genera clips de 5 o 10 s, recórtalos en el montaje a la duración indicada.
 
 **Prompt negativo** (si tu herramienta lo admite):
@@ -69,7 +69,7 @@ Medium over-the-shoulder shot. Teo (an anthropomorphic banana man: his head is a
 
 **🎬 Prompt de animación:**
 ```
-Teo slowly turns his head over his shoulder, breathing hard; the silhouette at the end of the street stays perfectly still; rain falls; slight push-in toward the silhouette. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Teo slowly turns his head over his shoulder, breathing hard; the silhouette at the end of the street stays perfectly still; rain falls; slight push-in toward the silhouette. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -110,7 +110,7 @@ Medium side tracking shot. Teo (an anthropomorphic banana man: his head is a tal
 
 **🎬 Prompt de animación:**
 ```
-Teo sprints into the alley in panic, glancing back; the camera follows him from the side with a slight handheld shake. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Teo sprints into the alley in panic, glancing back; the camera follows him from the side with a slight handheld shake. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -196,7 +196,7 @@ Medium shot. Lía (an anthropomorphic strawberry woman: her head is a real gloss
 
 **🎬 Prompt de animación:**
 ```
-Lía slowly lowers her coffee mug while watching the TV; on the screen the pear anchor speaks; dust particles float in the sunlight. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía slowly lowers her coffee mug while watching the TV; on the screen the pear anchor speaks; dust particles float in the sunlight. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -219,7 +219,7 @@ Close-up. Lía (an anthropomorphic strawberry woman: her head is a real glossy r
 
 **🎬 Prompt de animación:**
 ```
-Lía frowns, picks up her notebook and clicks her pen while thinking. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía frowns, picks up her notebook and clicks her pen while thinking. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -242,7 +242,7 @@ Medium shot. Nico (a 10-year-old anthropomorphic blueberry boy: his head is a bi
 
 **🎬 Prompt de animación:**
 ```
-Nico shouts toward the door, gesturing with both hands, leaning forward on the bed. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Nico shouts toward the door, gesturing with both hands, leaning forward on the bed. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -265,7 +265,7 @@ Medium shot from inside the room. Lía (an anthropomorphic strawberry woman: her
 
 **🎬 Prompt de animación:**
 ```
-Lía leans on the doorframe, crosses her arms and sighs, rolling her eyes slightly. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía leans on the doorframe, crosses her arms and sighs, rolling her eyes slightly. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -288,7 +288,7 @@ Medium close-up. Nico (a 10-year-old anthropomorphic blueberry boy: his head is 
 
 **🎬 Prompt de animación:**
 ```
-Nico gestures with both hands while talking intensely, leaning forward. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Nico gestures with both hands while talking intensely, leaning forward. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -334,7 +334,7 @@ Close-up. Lía (an anthropomorphic strawberry woman: her head is a real glossy r
 
 **🎬 Prompt de animación:**
 ```
-Lía's eyes widen slowly and she raises her hand to her mouth; slow push-in. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía's eyes widen slowly and she raises her hand to her mouth; slow push-in. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -380,7 +380,7 @@ Medium close-up. Lía (an anthropomorphic strawberry woman: her head is a real g
 
 **🎬 Prompt de animación:**
 ```
-Lía points firmly and leans forward while she speaks, serious. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía points firmly and leans forward while she speaks, serious. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**
@@ -426,7 +426,7 @@ Close-up. Lía (an anthropomorphic strawberry woman: her head is a real glossy r
 
 **🎬 Prompt de animación:**
 ```
-Lía holds the phone to her ear, breathing fast, glancing at the open window. The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
+Lía holds the phone to her ear, breathing fast, glancing at the open window. Mouth closed, not talking, subtle breathing and natural idle motion. Keep the characters' design, outfits and fruit textures exactly as in the image. Smooth, realistic cinematic motion, no morphing, no extra limbs.
 ```
 
 **🗣️ Voz:**

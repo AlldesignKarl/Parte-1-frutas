@@ -40,8 +40,8 @@ def img_prompt(s):
 
 def anim_prompt(s):
     txt = s["anim"]
-    if any(l[3] == "on" for l in s.get("lines", [])):
-        txt += " The speaking character talks with natural mouth and lip movement, subtle head and eyebrow motion."
+    if any(l[3] in ("on", "tv") for l in s.get("lines", [])):
+        txt += " Mouth closed, not talking, subtle breathing and natural idle motion."
     return f"{txt} {ANIM_SUFFIX}"
 
 
@@ -111,8 +111,8 @@ def build(num, outdir):
          "Sube las **fichas de personaje** (ver `PERSONAJES.md`) como referencia para que salgan siempre iguales. "
          "El `--ar 9:16` es para Midjourney; en las demás elige formato vertical 9:16.",
          "2. **Prompt de animación** → sube la imagen generada a Kling, Hailuo, Veo, Runway o similar (imagen → vídeo) y pega este texto.",
-         "3. Planos con diálogo **en cámara → lip-sync**: genera la voz con `VOCES.md` y aplica lip-sync al clip "
-         "(función Lip Sync de Kling, Hedra, Sync o la que uses). Así se mueve la boca al hablar.",
+         "3. En los planos con diálogo el prompt de animación ya pide la boca cerrada: la voz y el movimiento de la boca "
+         "los añade después el motor de montaje.",
          "4. Si la herramienta genera clips de 5 o 10 s, recórtalos en el montaje a la duración indicada.",
          "", f"**Prompt negativo** (si tu herramienta lo admite):", "```", NEGATIVE, "```", ""]
     for i, s in enumerate(shots, 1):
